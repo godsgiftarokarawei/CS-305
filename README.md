@@ -28,5 +28,5 @@ I used Java Keytool, SHA-256 hashing, OWASP Dependency-Check, suppression.xml co
 ### 7. Portfolio Value
 Future employers will be able to see a complete, real-world example of secure application development. This includes SSL certificate configuration, vulnerability scanning with mitigation strategies, checksum implementation, and functional testing – all valuable skills in secure software engineering roles.
 
-## Repository Structure
+
 
